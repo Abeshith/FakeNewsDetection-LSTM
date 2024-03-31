@@ -104,3 +104,6 @@ This project focuses on detecting fake news using the attributes "title" and "te
 - Train the model on a labeled dataset and evaluate its performance using metrics such as accuracy and confusion matrix.
 - Visualize the results, including the confusion matrix, to gain insights into the model's performance.
 
+# Reference
+https://www.kaggle.com/c/fake-news/data
+
